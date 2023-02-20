@@ -1,0 +1,5 @@
+Strategy Dealer
+---------------
+Strategy Dealer is that always hit while soft_totals is less than or equal to 16.
+
+counting = False

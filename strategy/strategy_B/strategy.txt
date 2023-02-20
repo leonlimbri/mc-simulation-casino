@@ -1,0 +1,5 @@
+Strategy B
+----------
+Strategy B is using the basic strategy of Blackjack without counting.
+
+counting = False

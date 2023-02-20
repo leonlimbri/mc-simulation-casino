@@ -1,0 +1,5 @@
+Strategy A
+----------
+Strategy A is using a strategy where when the dealer's card is higher than player's card - 10, then player should hit, unless the player has cards above or equal to 17. Additionally. always double in 11 and double on or 9 when the dealer's card is lower than 7.
+
+counting = False

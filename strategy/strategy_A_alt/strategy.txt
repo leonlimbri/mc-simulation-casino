@@ -1,0 +1,5 @@
+Strategy A_alt
+--------------
+Strategy A_alt is strategy A with counting.
+
+counting = True

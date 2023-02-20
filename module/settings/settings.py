@@ -1,0 +1,10 @@
+CARDS = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
+VALUE = [[1, 11], 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
+CARDS_COUNT = [1, -1, -1, -1, -1, -1, 0, 0, 0, 1, 1, 1, 1]
+N_CARD_EACH_DECK = 4
+BET_UNIT = 5
+MIN_BET = 15
+BET_UNIT = 5
+N_DECKS = 6
+PLOT_COLOR_DEALER = '#F5CA7B'
+PLOT_COLOR_PLAYER = '#4169E1'

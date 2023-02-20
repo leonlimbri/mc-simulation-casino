@@ -1,0 +1,5 @@
+Strategy B_alt
+--------------
+Strategy B_alt is using the basic strategy of Blackjack with counting.
+
+counting = True
